@@ -1,0 +1,94 @@
+#top-bar {
+
+	width: 1000px;
+	margin: 0 auto;
+	height: 40px;
+}
+#bbc-logo{
+
+	height: 23px;
+	margin-top: 8px;
+	float: left;
+	margin-right: 5px;
+}
+.top-bar-area{
+
+	float: left;
+	border-left: 1px #D1D1D1 solid;
+	height: 100%;
+}
+#signin-image{
+
+	width: 18px;
+	height: 18px;
+	margin: 8px;
+	float: left; 
+}
+#signin-text{
+	font-weight: bold;
+	font-size: 80%;
+	position: relative;
+	top: 8px;
+	margin-right: 70px;
+
+}
+#News{
+	float:left;
+	border-left: 1px #D1D1D1 solid;
+	height: 100%;
+}
+#news-text{
+	font-weight: bold;
+	font-size: 90%;
+	position: relative;
+	top: 8px;
+	margin-left: 10px;
+	margin-right: 10px;
+}
+#sport{
+	float:left;
+	border-left: 1px #D1D1D1 solid;
+	height: 100%;
+}
+#sport-text{
+	font-weight: bold;
+	font-size: 90%;
+	position: relative;
+	top: 8px;
+	margin-left: 10px;
+	margin-right: 10px;
+}
+#weather{
+	float:left;
+	border-left: 1px #D1D1D1 solid;
+	height: 100%;
+}
+#weather-text{
+	font-weight: bold;
+	font-size: 90%;
+	position: relative;
+	top: 8px;
+	margin-left: 10px;
+	margin-right: 10px;	
+}
+#shop{
+	float:left;
+	border-left: 1px #D1D1D1 solid;
+	height: 100%;	
+}
+#shop-text{
+	font-weight: bold;
+	font-size: 90%;
+	position: relative;
+	top: 8px;
+	margin-left: 10px;
+	margin-right: 10px;
+}
+
+
+body{
+
+	margin: 0;
+	padding: 0;
+	font-family: Helvetica, Arial, sans-serif;
+}
