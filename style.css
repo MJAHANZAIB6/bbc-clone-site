@@ -38,9 +38,8 @@
 	margin-right: 80px;
 }
 #drop-down-icon{
-	width: 10px;
-	height: 10px;
-	margin-top: 2px;
+	width: 13px;
+	height: 13px;
 	margin-left: 65px;
 }
 #search-bar{
@@ -59,7 +58,7 @@
 #news-text-bar{
 	width: auto;
 	background-color: #BB1919;
-	height: 70px;
+	height: 60px;
 	margin: 0 auto;
 }
 #news-text{
@@ -67,9 +66,56 @@
 	font-size: 270%;
 	margin-left: 73px;
 	position: relative;
-	top: 13px;
+	top: 8px;
+}
+#third-menu-bar{
+	width: auto;
+	height: 36px;
+	background-color: #A91717;
+	margin: 0 auto;
+}
+#third-bar-home-text{
+	float: left;
+	color: white;
+	font-size: 90%;
+	margin-left: 73px;
+	margin-right: 13px;
+}
+.third-menu{
+	float: left;
+	border-right: 1px #DD2222 solid;
+	margin-top: 10px;
+	height: 50%;
+}
+.third-menu-area{
+	float: left;
+	color: white;
+	font-size: 90%;
+	padding:0 11px 0 11px;
+}
+#more-bar{
+	padding: 10px 0 0 11px;
+	float: left;
+	color: white;
+	font-size: 90%;
+}
+#menu-drop-down-icon{
+	width: 14px;
+	height: 14px;
+	position: relative;
+	top: 2px;
+}
+h2{
+	margin-left: 73px;
+	
+	font-size: 20px;
+	font-weight: normal;
+	border-bottom: 3px #A91717 solid;
+	width: 97px;
 
-
+}
+h1{
+	margin-left: 73px;
 }
 body{
 	margin: 0;
