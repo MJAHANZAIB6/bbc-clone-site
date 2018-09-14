@@ -29,7 +29,7 @@
 	font-size: 80%;
 	position: relative;
 	top: 8px;
-	margin-right: 70px;
+	margin-right: 80px;
 
 }
 #News{
@@ -84,7 +84,67 @@
 	margin-left: 10px;
 	margin-right: 10px;
 }
+#earth{
+	float:left;
+	border-left: 1px #D1D1D1 solid;
+	height: 100%;	
+}
+#earth-text{
+	font-weight: bold;
+	font-size: 90%;
+	position: relative;
+	top: 8px;
+	margin-left: 10px;
+	margin-right: 10px;
+}
+#travel{
+	float:left;
+	border-left: 1px #D1D1D1 solid;
+	height: 100%;	
+}
+#travel-text{
+	font-weight: bold;
+	font-size: 90%;
+	position: relative;
+	top: 8px;
+	margin-left: 10px;
+	margin-right: 10px;
+}
+#more{
+	float:left;
+	border-left: 1px #D1D1D1 solid;
+	height: 100%;	
+}
+#more-text{
+	font-weight: bold;
+	font-size: 90%;
+	margin-left: 10px;
+	margin-right: 60px;
+}
+#drop-down-icon{
+	width: 10px;
+	height: 10px;
+	margin-top: 12px;
 
+}
+#search{
+	float:left;
+	border-left: 1px #D1D1D1 solid;
+	height: 100%;	
+}
+#search-bar{
+	font-weight: bold;
+	background-color: #E4E4E4;
+	border:none;
+	padding: 5px;
+	margin: 7px 0 7px 9px;
+}
+#magnifing-glass-icon{
+	width: 20px;
+	height: 20px;
+	margin-left: none;
+
+}
 
 body{
 
