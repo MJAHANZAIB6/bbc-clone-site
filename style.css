@@ -105,17 +105,28 @@
 	position: relative;
 	top: 2px;
 }
+#page-area{
+	width: 1000px;
+	margin: 0 auto;
+}
 h2{
-	margin-left: 73px;
 	
 	font-size: 20px;
 	font-weight: normal;
 	border-bottom: 3px #A91717 solid;
-	width: 97px;
-
+	width: 100px;
 }
-h1{
-	margin-left: 73px;
+h3 a{
+	color: #5A5A5A;
+	text-decoration: none;
+	font-size: 165%;
+}
+h3 a:hover{
+	color: #1167A8;
+}
+#main-blog{
+	color: #5A5A5A;
+	width: 265px;
 }
 body{
 	margin: 0;
