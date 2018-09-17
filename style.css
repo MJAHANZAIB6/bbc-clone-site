@@ -4,6 +4,9 @@
 	margin: 0 auto;
 	height: 40px;
 }
+.clear{
+	clear: both;
+}
 #bbc-logo{
 
 	height: 23px;
@@ -108,6 +111,7 @@
 #page-area{
 	width: 1000px;
 	margin: 0 auto;
+
 }
 h2{
 	
@@ -117,16 +121,104 @@ h2{
 	width: 100px;
 }
 h3 a{
-	color: #5A5A5A;
+	color: #222222;
 	text-decoration: none;
-	font-size: 165%;
+	font-size: 175%;
+	position: relative;
+	top: -13px;
 }
 h3 a:hover{
 	color: #1167A8;
+
 }
 #main-blog{
 	color: #5A5A5A;
-	width: 265px;
+	width: 240px;
+	font-size: 90%;
+	float: left;
+	position: relative;
+	top: -28px;
+}
+#main-blog img{
+
+	height: 13px;
+	float: left;	
+}
+.tag1{
+	margin-left: 6px;
+	padding-right: 5px;
+	border-right: 1px solid #D1D1D1;
+	font-size: 90%;
+}
+.main-blog-link{
+	color: #A91717;
+	padding-left: 5px;
+	text-decoration: none;
+	font-size: 90%;
+}
+#main-blog a:hover{
+	color: #1167A8;
+}
+#blog-area{
+	float:left;
+	width: 670px;
+	border-right: 1px #B8B8B8 solid;
+	padding-right: 15px;
+	height: 400px;
+}
+#main-blog-hr{
+	width: 40px;
+	border-top: 1px #A91717 solid;
+}
+#tag2{
+	color: #222222;
+	text-decoration: none;
+}
+#tag3{
+	position: relative;
+	top: -13px;
+}
+#watch-listen{
+	margin-left: 20px;
+	width: 300px;
+	
+}
+h4{
+	font-weight: normal;
+	font-size: 20px;
+}
+.right-side-img{
+	float: left;
+	width: 90px;
+	margin-right: 10px;
+}
+.clock{
+	width: 13px;
+}
+.watch-listen-link{
+	text-decoration: none;
+	color: black;
+	font-weight: bold;
+	font-size: 18px;
+}
+.watch-listen-link:hover{
+	color: #1167A8;
+}
+#tag4{
+	color: #A91717;
+	padding-left: 5px;
+	text-decoration: none;
+	font-size: 90%;
+}
+#tag4:hover{
+	color: #1167A8;
+}
+.side-blog{
+	float: right;
+	width: 200px;
+	position: relative;
+	top: -15px;
+
 }
 body{
 	margin: 0;
