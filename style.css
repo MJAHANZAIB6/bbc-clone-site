@@ -146,15 +146,16 @@ h3 a:hover{
 }
 .tag1{
 	margin-left: 6px;
-	padding-right: 5px;
-	border-right: 1px solid #D1D1D1;
-	font-size: 90%;
+	margin-right: 5px;
+	font-size: 88%;
+	color: #737373
 }
-.main-blog-link{
+#main-blog-link{
 	color: #A91717;
 	padding-left: 5px;
 	text-decoration: none;
 	font-size: 90%;
+	border-left: 1px solid #D1D1D1;
 }
 #main-blog a:hover{
 	color: #1167A8;
@@ -169,6 +170,8 @@ h3 a:hover{
 #main-blog-hr{
 	width: 40px;
 	border-top: 1px #A91717 solid;
+	position: relative;
+	top: -5px;
 }
 #tag2{
 	color: #222222;
@@ -177,20 +180,28 @@ h3 a:hover{
 #tag3{
 	position: relative;
 	top: -13px;
+	right: -18px;
+}
+#hr-1{
+	position: relative;
+	top: -8px;
 }
 #watch-listen{
 	margin-left: 20px;
-	width: 300px;
-	
+	width: 294px;
+	float: right;
+	position: relative;
+	top: -25px;
 }
 h4{
 	font-weight: normal;
-	font-size: 20px;
+	font-size: 24px;
 }
 .right-side-img{
 	float: left;
-	width: 90px;
-	margin-right: 10px;
+	width: 105px;
+	position: relative;
+	top: -10px;
 }
 .clock{
 	width: 13px;
@@ -199,7 +210,7 @@ h4{
 	text-decoration: none;
 	color: black;
 	font-weight: bold;
-	font-size: 18px;
+	font-size: 14px;
 }
 .watch-listen-link:hover{
 	color: #1167A8;
@@ -208,17 +219,35 @@ h4{
 	color: #A91717;
 	padding-left: 5px;
 	text-decoration: none;
-	font-size: 90%;
+	font-size: 85%;
+	border-left: 1px solid #D1D1D1;
 }
 #tag4:hover{
 	color: #1167A8;
 }
 .side-blog{
 	float: right;
-	width: 200px;
+	width: 170px;
 	position: relative;
-	top: -15px;
+	top: -27px;
+	left: -8px
 
+}
+.tag5{
+	position: relative;
+	top: -12px;
+}
+#tag6{
+	position: relative;
+	top: -28px;
+}
+#tag7{
+	position: relative;
+	top: -53px;
+}
+#tag8{
+	position: relative;
+	top: -77px;
 }
 body{
 	margin: 0;
